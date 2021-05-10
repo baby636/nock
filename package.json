@@ -30,7 +30,7 @@
   "devDependencies": {
     "@sinonjs/fake-timers": "^7.0.2",
     "assert-rejects": "^1.0.0",
-    "chai": "^4.1.2",
+    "chai": "^4.3.4",
     "dirty-chai": "^2.0.1",
     "dtslint": "^4.0.4",
     "eslint": "^7.3.1",
