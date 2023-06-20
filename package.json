@@ -36,7 +36,7 @@
     "eslint": "^7.3.1",
     "eslint-config-prettier": "^8.1.0",
     "eslint-config-standard": "^16.0.2",
-    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-import": "^2.25.0",
     "eslint-plugin-mocha": "^8.0.0",
     "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-promise": "^4.1.1",
@@ -49,7 +49,7 @@
     "prettier": "2.2.1",
     "proxyquire": "^2.1.0",
     "rimraf": "^3.0.0",
-    "semantic-release": "^17.0.2",
+    "semantic-release": "^21.0.2",
     "sinon": "^10.0.0",
     "sinon-chai": "^3.3.0",
     "typescript": "^4.2.2"
